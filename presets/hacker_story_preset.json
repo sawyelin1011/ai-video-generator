@@ -1,0 +1,87 @@
+{
+  "project": "ai-video-generator",
+  "version": "1.0",
+  "created": "2026-09-26T00:00:00Z",
+  "topic": "Young hacker hunted by government - emotional backstory",
+  "language": "en",
+  "language_name": "English",
+  "format": "short",
+  "aspect_ratio": "9:16",
+  "resolution": {
+    "width": 1080,
+    "height": 1920
+  },
+  "fps": 30,
+  "voice": "en-US-BrianNeural",
+  "title": "They're Hunting Him",
+  "hook": "He was just a kid when he found out... they were already watching.",
+  "description": "A young hacker's emotional journey as government forces close in. A story of fear, genius, and survival.",
+  "tags": [
+    "thriller",
+    "hacker",
+    "government",
+    "backstory",
+    "suspense",
+    "emotional"
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He was only sixteen when curiosity turned into obsession. A lonely kid, buried in code, searching for truth in the dark corners of the internet.",
+      "visual_prompt": "young boy sitting alone at computer in dark bedroom, glowing monitor, cyberpunk atmosphere",
+      "visual_type": "ai_image",
+      "duration": 6.5
+    },
+    {
+      "id": 2,
+      "narration": "What he found wasn't supposed to exist. Classified files. Hidden networks. Secrets that made governments nervous.",
+      "visual_prompt": "person typing rapidly on keyboard, computer screen showing code and data streams, hacking",
+      "visual_type": "stock_video",
+      "duration": 5.8
+    },
+    {
+      "id": 3,
+      "narration": "His first mistake was thinking he was anonymous. His second was believing nobody cared about a kid in his basement.",
+      "visual_prompt": "computer screens flashing red warning symbols, digital surveillance, network monitoring, hacking attempt",
+      "visual_type": "ai_image",
+      "duration": 6.2
+    },
+    {
+      "id": 4,
+      "narration": "They came without warning. Black vans. Federal agents. A house surrounded before dawn broke.",
+      "visual_prompt": "black vans pulling up to a suburban house at night, silhouettes of police or agents outside, government raid",
+      "visual_type": "stock_video",
+      "duration": 6.0
+    },
+    {
+      "id": 5,
+      "narration": "He wasn't the first they'd found. And he wouldn't be the last. But he was different. Smarter. More desperate to survive.",
+      "visual_prompt": "young man looking afraid and cornered, intense eyes showing fear and determination, dramatic lighting",
+      "visual_type": "ai_image",
+      "duration": 6.1
+    },
+    {
+      "id": 6,
+      "narration": "Now he runs. Every day, another city. Every night, another fear. The government doesn't forget. They always find you in the end.",
+      "visual_prompt": "person running through dark alley at night, shadows, urban streets, being chased, paranoid",
+      "visual_type": "stock_video",
+      "duration": 6.4
+    },
+    {
+      "id": 7,
+      "narration": "But here's what they didn't expect: he's smarter than they are. And he's got nothing left to lose. The hunt is on.",
+      "visual_prompt": "hacker typing intensely in a dark room, laptop screens showing code, determined face, ready for battle",
+      "visual_type": "ai_image",
+      "duration": 6.3
+    }
+  ],
+  "music": {
+    "enabled": true,
+    "query": "dark suspenseful thriller",
+    "volume": 0.40
+  },
+  "subtitles": {
+    "enabled": true,
+    "style": "tiktok_word"
+  }
+}
